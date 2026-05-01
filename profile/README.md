@@ -1,25 +1,22 @@
-<div align="center" style="width:100%; max-width:900px; height:240px; overflow:hidden;">
-  <img src="YJstudios_logo.png" alt="YJstudios Logo" style="width:100%; height:100%; object-fit:cover;" />
-</div>
+<div align="center" style="background-image: url(YJstudios_logo.png); background-size: cover; background-position: center; width:100%; max-width:900px; height:240px;"></div>
 
 <br />
 
 <div align="center">
-  <strong>Building quiet, considered, and elegant software. More coming soon...</strong>
+  <strong style="font-size: 1.5em;">Building quiet, considered, and elegant software.</strong>
 </div>
 
 <br />
 
 ## About Us
 
-YJstudios is a modern software engineering and production studio. We believe that the best technology doesn't demand your attention—it seamlessly enhances your life. We focus on extreme simplicity, high-end design, and robust engineering to create digital experiences that feel unhurried, warm, and distinctly human.
+YJstudios is a modern software engineering and production studio. We believe that the best technology doesn't demand your attention, it enhances your life. We focus on simplicity, high-end design, and robust engineering to create digital experiences that feel unhurried, warm, and distinctly human.
 
 ## Featured Products
 
 ### 📍 [Wherely](https://github.com/YJstudios/Wherely)
 **A quiet companion that picks one good place for you, every day.**
 Wherely cuts through the noise of infinite scrolling maps. It uses contextual intelligence and a curated editorial engine to give you exactly one perfect recommendation for your day, tailored to your exact taste profile. 
-*Tech Stack: React Native, Expo, Supabase, Edge Functions*
 
 ---
 
