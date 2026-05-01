@@ -1,4 +1,6 @@
-<div align="center" style="background-image: url(YJstudios_logo.png); background-size: cover; background-position: center; width:100%; max-width:900px; height:240px;"></div>
+<p align="center">
+  <img src="YJstudios_banner.png" alt="YJstudios" width="900" />
+</p>
 
 <br />
 
