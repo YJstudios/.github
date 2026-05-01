@@ -1,11 +1,11 @@
-<div align="center">
-  <img src="YJstudios_logo.png" alt="YJstudios Logo" width="200" />
+<div align="center" style="width:100%; max-width:900px; height:240px; overflow:hidden;">
+  <img src="YJstudios_logo.png" alt="YJstudios Logo" style="width:100%; height:100%; object-fit:cover;" />
 </div>
 
 <br />
 
 <div align="center">
-  <strong>Building quiet, considered, and elegant software.</strong>
+  <strong>Building quiet, considered, and elegant software. More coming soon...</strong>
 </div>
 
 <br />
